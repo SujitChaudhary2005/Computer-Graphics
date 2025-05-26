@@ -2,7 +2,9 @@
 
 This repository contains 15 essential Computer Graphics lab programs implemented in C using `graphics.h` and OpenGL.
 
----
+## 📘 PDF file
+
+➤ [Computer Graphics.pdf](https://github.com/SujitChaudhary2005/Computer-Graphics/blob/main/Computer%20Graphics.pdf)
 
 ## 📘 Lab Programs
 
